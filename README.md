@@ -1,25 +1,13 @@
-Hi, I'm Paul 👋
+Data Analyst with hands-on experience in transforming raw data into actionable business insights using SQL, Python, and Power BI.
 
-Junior Data Engineering Enthusiast with hands-on experience in building
-data pipelines, data processing workflows, and analytics dashboards.
+Skilled in building end-to-end data analysis workflows — from data cleaning and database querying to exploratory analysis and interactive dashboarding. Experienced in working with structured datasets to identify trends, evaluate business performance, and support data-driven decision-making.
 
-Tech Stack:
-Python
-SQL
-Pandas
-ETL Pipelines
-Data Visualization
-Power BI
-Cloud (Learning GCP)
+Built real-world projects involving:
+- Sales performance analysis and KPI tracking
+- Revenue trend analysis and customer behavior insights
+- ETL pipeline development and data processing workflows
 
-Projects:
-Sales Data Pipeline using Python
-ETL Workflow Automation
-SQL Data Warehouse Queries
-Dashboard Analytics Project
+Strong foundation in SQL analytics, data visualization, and business-oriented problem solving.
 
-Currently learning:
-Apache Spark
-Google BigQuery
-Dataflow
-#Paul-junior-Data-Engineer
+Actively seeking Data Analyst / Junior Data Analyst opportunities.
+#Paul-junior-Data-Analyst
