@@ -1,13 +1,15 @@
-Data Analyst with hands-on experience in transforming raw data into actionable business insights using SQL, Python, and Power BI.
+## Paul Meshach — Junior Python Developer
 
-Skilled in building end-to-end data analysis workflows — from data cleaning and database querying to exploratory analysis and interactive dashboarding. Experienced in working with structured datasets to identify trends, evaluate business performance, and support data-driven decision-making.
+Backend-focused developer building production-oriented Python systems.
 
-Built real-world projects involving:
-- Sales performance analysis and KPI tracking
-- Revenue trend analysis and customer behavior insights
-- ETL pipeline development and data processing workflows
+**Currently working on:** Dockerizing resume-review-system + adding PostgreSQL migration
 
-Strong foundation in SQL analytics, data visualization, and business-oriented problem solving.
+**Primary stack:**
+Python · FastAPI · PostgreSQL · SQLAlchemy · JWT · REST APIs · Docker · Git · Linux
 
-Actively seeking Data Analyst / Junior Data Analyst opportunities.
-#Paul-junior-Data-Analyst
+**Featured project:**
+[Resume Review Workflow System](https://github.com/Paul-Meshach/resume-review-system) — Enterprise recruitment backend built with FastAPI, JWT auth, file parsing, SMTP notifications, and SQL Server. Role-based access for Admins and Team Leads.
+
+**Building toward:** Data Engineering · MLOps · AI/ML Engineering
+
+📧 paulowebmeshach@gmail.com · [LinkedIn](https://www.linkedin.com/in/paulmeshachofficial/)
